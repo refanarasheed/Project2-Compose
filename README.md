@@ -38,7 +38,6 @@ This Dockerfile sets up a custom Jenkins environment based on the official Jenki
     - Customize your Jenkins environment, install additional plugins, and configure it as needed.
     - The Docker client is already set up within the container, allowing you to interact with Docker directly.
 
-## Customization
 
 For more information on Jenkins and its configuration, refer to the [Jenkins Documentation](https://www.jenkins.io/doc/).
 
